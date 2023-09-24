@@ -10,8 +10,8 @@ import React from "react";
 type Props = {};
 
 export const metadata = {
-  title: "Dashboard | Cambridge Quiz App",
-  description: "Quiz yourself on anything centered around English!",
+  title: "Dashboard | QuiCambridge Quiz App",
+  description: "Quiz yourself on anything!",
 };
 
 const Dasboard = async (props: Props) => {

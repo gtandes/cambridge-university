@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Cambridge Quiz App",
-  description: "Quiz yourself on anything centered around English!",
+  description: "Quiz yourself on anything!",
 };
 
 export default function RootLayout({
